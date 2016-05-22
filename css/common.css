@@ -1,0 +1,134 @@
+/*헤더부분*/
+body{
+    width: 100%;
+}
+.header{
+
+}
+
+.header .inner{
+
+}
+
+.header .logo{
+
+}
+
+.header .logo h1{
+    text-align: center;
+}
+
+
+.header .menu_group{
+    width: 937px;
+    margin: 0 auto;
+}
+
+.header .menu{
+
+}
+
+.header .menu li{
+    float: left;
+}
+
+
+
+
+/*비주얼 영역*/
+.visual{
+
+}
+
+.visual .inner{
+
+}
+
+.visual .inner .img_group{
+    width: 1280px;
+    margin: 0 auto;
+    padding-top: 20px;
+
+}
+
+.visual .inner .left_group{
+    width: 620px;
+    float: left;
+    margin-right: 20px;
+}
+
+.visual .inner .left_group .img_group1{
+    width: 300px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+
+
+.visual .inner .left_group .img_group1 a:last-child{
+    margin-bottom: 0;
+}
+
+.visual .inner .left_group a{
+    float: left;
+    margin-bottom: 20px;
+
+}
+
+
+.visual .inner .right_group{
+    width: 620px;
+    float:left;
+
+}
+
+.visual .inner .right_group a{
+    margin: 0 20px 20px 0;
+
+}
+
+
+.visual .inner .right_group .img_group2{
+    width: 300px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.visual .inner .right_group .img_group2 a{
+
+}
+
+.visual .inner .right_group .img_group2 a:last-child{
+    margin-bottom: 0;
+}
+
+.visual .inner .right_group a{
+    float: left;
+}
+
+
+
+/*푸터 영역*/
+
+.footer{
+
+}
+
+.footer .inner{
+    width: 1280px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.footer .inner .footer_title{
+
+}
+
+.footer .inner .slide_img{
+    float: left;
+}
+
+.footer .inner .slide_img li{
+    float: left;
+}
+
